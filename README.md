@@ -10,6 +10,9 @@ Ahora ejecutamos mvn package para empaquetar el proyecto
 Procedemos a ejecutarlo, dando como resultado.
 ![image](https://github.com/user-attachments/assets/18b15ce3-84e8-43c2-afc0-f68fdbd363a2)
 
+## GIT
+Verificamos la configuración que se le dio al respositorio para subir los commit
+![image](https://github.com/user-attachments/assets/8fd75c5f-396f-447a-9716-e0cd863505e3)
 
 
 Agregar el README
