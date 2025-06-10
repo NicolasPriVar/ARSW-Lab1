@@ -9,3 +9,8 @@ Ahora ejecutamos mvn package para empaquetar el proyecto
 ![image](https://github.com/user-attachments/assets/69d8b51d-430f-40d2-aedc-a07bdc3ff295)
 Procedemos a ejecutarlo, dando como resultado.
 ![image](https://github.com/user-attachments/assets/18b15ce3-84e8-43c2-afc0-f68fdbd363a2)
+
+
+
+Agregar el README
+![image](https://github.com/user-attachments/assets/fe941f81-74af-40de-b50c-8d598502e689)
